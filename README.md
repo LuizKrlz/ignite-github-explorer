@@ -30,8 +30,8 @@ yarn install
 - [x] Webpack Dev Server
 - [x] Using source maps
 - [x] Ambience dev and production
-- [ ] Import css files
-- [ ] using sass
+- [x] Import css files
+- [x] using sass
 
 ---
 
