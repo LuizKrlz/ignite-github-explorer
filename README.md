@@ -26,9 +26,9 @@ yarn install
 - [x] Configure babel
 - [x] Configure Webpack
 - [x] Structure of ReactJS
-- [ ] Server for static html
-- [ ] Webpack Dev Server
-- [ ] Using source maps
+- [x] Server for static html
+- [x] Webpack Dev Server
+- [x] Using source maps
 - [ ] Ambience dev and production
 - [ ] Import css files
 - [ ] using sass
