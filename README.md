@@ -25,7 +25,7 @@ yarn install
 - [x] Start project
 - [x] Configure babel
 - [x] Configure Webpack
-- [ ] Structure of ReactJS
+- [x] Structure of ReactJS
 - [ ] Server for static html
 - [ ] Webpack Dev Server
 - [ ] Using source maps
